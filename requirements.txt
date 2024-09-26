@@ -4,6 +4,5 @@ streamlit
 requests
 pandas
 sqlalchemy
-snowflake.sqlalchemy
 time
 matplotlib
