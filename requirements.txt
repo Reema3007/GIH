@@ -4,5 +4,5 @@ streamlit
 requests
 pandas
 sqlalchemy
-time
+altair
 matplotlib
