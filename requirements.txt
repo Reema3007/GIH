@@ -1,0 +1,10 @@
+#requirements.txt
+snowflake-snowpark-python
+streamlit
+requests
+pandas
+sqlalchemy
+snowflake.sqlalchemy
+altair
+time
+matplotlib
